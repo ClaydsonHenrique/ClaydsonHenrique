@@ -33,8 +33,9 @@ Tenho experiência em diversas tecnologias e estou sempre buscando novos desafio
 ### Outros
 
 - NPM
-- GIT
-- <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+- GIT <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+- GITHUB <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+          
 
 ## Contato
 
