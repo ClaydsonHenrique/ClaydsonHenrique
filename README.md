@@ -1,16 +1,33 @@
-### Hi there 👋
+# Olá, sou SeuNome! 👋
 
-<!--
-**ClaydsonHenrique/ClaydsonHenrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
 
-Here are some ideas to get you started:
+Sou um desenvolvedor apaixonado por tecnologia, com experiência em diversas áreas. Estou sempre em busca de aprender coisas novas e contribuir para projetos interessantes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades
+
+### Frontend
+- HTML
+- CSS
+- JavaScript
+- React
+
+### Backend
+- Node.js
+- MongoDB
+- Express
+
+### DevOps
+- Docker
+- AWS
+- CI/CD
+
+## Projetos Destacados
+
+- [Projeto 1](link_para_projeto_1)
+- [Projeto 2](link_para_projeto_2)
+
+## Contato
+
+- 📧 E-mail: seuemail@example.com
+- LinkedIn: [Seu perfil do LinkedIn](link_para_linkedin)
