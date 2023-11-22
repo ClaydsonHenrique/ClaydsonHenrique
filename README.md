@@ -34,8 +34,7 @@ Tenho experiência em diversas tecnologias e estou sempre buscando novos desafio
 
 - NPM
 - GIT
-- ![GitHub Logo](href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css) 
-
+- <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 
 ## Contato
 
