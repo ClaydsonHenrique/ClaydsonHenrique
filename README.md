@@ -8,11 +8,8 @@ Tenho experiência em diversas tecnologias e estou sempre buscando novos desafio
 ## Habilidades e Interesses
 
 ### Front-end
-<picture>
-   <source><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /></source>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <source>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /> </source> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <source> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"   width="40" height="40"/></source>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <source> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" /> </source> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <source><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/></source>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <source><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40"/></source>
 
-</picture>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"   width="40" height="40"/>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40"/>
 
 
 ### Back-end
