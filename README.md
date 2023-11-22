@@ -22,7 +22,8 @@ Tenho experiência em diversas tecnologias e estou sempre buscando novos desafio
 
 ### Outros
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"  width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"  width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://icongr.am/devicon/github-original.svg?size=128&color=ffffff"  width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"  width="40" height="40"/>
+
 
 ## Contato
 
