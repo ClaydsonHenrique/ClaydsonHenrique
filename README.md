@@ -22,7 +22,7 @@ Tenho experiência em diversas tecnologias e estou sempre buscando novos desafio
 
 ### Outros
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://icongr.am/devicon/github-original.svg?size=127&color=f7f7f7"  width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"  width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://banner2.cleanpng.com/20180807/veq/kisspng-github-pages-logo-repository-fork-github-logo-1-magentys-5b69de71860c56.3928819415336648815491.jpg"  width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"  width="40" height="40"/>
 
 
 ## Contato
