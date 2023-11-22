@@ -1,33 +1,44 @@
-# Olá, sou SeuNome! 👋
+# Olá, sou Claydson! 👋
 
 ## Sobre mim
 
-Sou um desenvolvedor apaixonado por tecnologia, com experiência em diversas áreas. Estou sempre em busca de aprender coisas novas e contribuir para projetos interessantes.
+Sou um desenvolvedor full stack apaixonado por criar soluções inovadoras e funcionais.
+Tenho experiência em diversas tecnologias e estou sempre buscando novos desafios para aprimorar minhas habilidades.
 
-## Habilidades
+## Habilidades e Interesses
 
-### Frontend
+### Front-end
+
 - HTML
 - CSS
 - JavaScript
+- TypeScript
 - React
+- React Router
 
-### Backend
+### Back-end
+
 - Node.js
-- MongoDB
 - Express
+- Sequelize
+- MySql
+- TypeScript
 
-### DevOps
-- Docker
-- AWS
-- CI/CD
+### Testes
 
-## Projetos Destacados
+- Jest
+- Mocha
+- React Testing Library
 
-- [Projeto 1](link_para_projeto_1)
-- [Projeto 2](link_para_projeto_2)
+### Outros
+
+- NPM
+- GIT
+- GITHUB
 
 ## Contato
 
-- 📧 E-mail: seuemail@example.com
-- LinkedIn: [Seu perfil do LinkedIn](link_para_linkedin)
+- 📧 E-mail: claydsonhenriquebs@gmail.com
+- LinkedIn: [https://www.linkedin.com/in/claydson/]
+
+Estou sempre em busca de novos projetos desafiadores e oportunidades para colaborar. Vamos trabalhar juntos para alcançar grandes objetivos!
