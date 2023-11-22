@@ -14,7 +14,7 @@ Tenho experiência em diversas tecnologias e estou sempre buscando novos desafio
 - JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"   width="40" height="40"/>
 
 - TypeScript 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />
           
 - React
 - React Router
