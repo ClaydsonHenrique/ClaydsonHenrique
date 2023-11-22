@@ -34,7 +34,7 @@ Tenho experiência em diversas tecnologias e estou sempre buscando novos desafio
 
 - NPM
 - GIT
-- GITHUB
+- ![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
 ## Contato
 
