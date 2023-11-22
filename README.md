@@ -11,7 +11,8 @@ Tenho experiência em diversas tecnologias e estou sempre buscando novos desafio
 
 - HTML
 - CSS
-- JavaScript
+- JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"   width="40" height="40"/>
+
 - TypeScript
 - React
 - React Router
@@ -34,7 +35,7 @@ Tenho experiência em diversas tecnologias e estou sempre buscando novos desafio
 
 - NPM
 - GIT <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-- GITHUB   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"  width="40" height="40" color="#fff" />
+- GITHUB   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"  width="40" height="40"/>
           
 
            
