@@ -29,6 +29,8 @@ Tenho experiência em diversas tecnologias e estou sempre buscando novos desafio
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaydsonHenrique&layout=compact&langs_count=7&theme=dracula"/>
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ClaydsonHenrique&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
+
 ## Contato
 
 - 📧 E-mail: claydsonhenriquebs@gmail.com
