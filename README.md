@@ -25,7 +25,7 @@ Tenho experiência em diversas tecnologias e estou sempre buscando novos desafio
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png"  width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"  width="40" height="40"/>
 
 ### Aprendendo no momento ...
-<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <div>
   <a  href='https://github.com/ClaydsonHenrique'></a>
